@@ -1,10 +1,8 @@
 #!python3
 #VERSION=0.7
-import sys, json
 import os
 import io, re
 from datetime import datetime
-import time
 from pprint import pprint
 
 myoutputs=None
